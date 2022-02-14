@@ -1,0 +1,6 @@
+framework module Pods_ViewInspectorDemo_ViewInspectorDemoUITests {
+  umbrella header "Pods-ViewInspectorDemo-ViewInspectorDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
